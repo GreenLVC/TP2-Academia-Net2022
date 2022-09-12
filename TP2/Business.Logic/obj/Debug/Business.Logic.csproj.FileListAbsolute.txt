@@ -1,0 +1,22 @@
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\bin\Debug\Business.Entities.dll
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\bin\Debug\Data.Database.dll
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\bin\Debug\Data.Database.pdb
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\bin\Debug\Business.Entities.pdb
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.AssemblyReference.cache
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\valen\Documents\TP2L04\TP2\Business.Logic\obj\Debug\Business.Logic.pdb

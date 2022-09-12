@@ -1,0 +1,6 @@
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Entities\obj\Debug\Business.Entities.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\valen\OneDrive - frro.utn.edu.ar\Documentos\Facu\4to\.Net\Laboratorios\TP_Labs_NET\Labs Tp 2\TP2L04\TP2\Business.Entities\obj\Debug\Business.Entities.pdb
